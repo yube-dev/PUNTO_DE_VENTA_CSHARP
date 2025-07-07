@@ -56,5 +56,15 @@ namespace PUNTO_DE_VENTA_CODIGO369_CSHARP
         {
 
         }
+
+        private void panelICONO_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
